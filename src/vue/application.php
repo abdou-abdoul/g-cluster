@@ -60,7 +60,7 @@
     </div>
   </nav>
 	<!-- Main -->
-	 <main>
+  <main>
       <section>
         <div id="importClub" class="content" ><?php include("controleur/controleur.php");?></div>
         <div id="selectMethod" class="content" >
